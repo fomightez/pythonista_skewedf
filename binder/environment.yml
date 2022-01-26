@@ -1,0 +1,13 @@
+name: pythonista_skewedf_dev
+channels:
+  - conda-forge
+  - r
+dependencies:
+  - r-base>=4
+  - r-irkernel>=1.1
+  - r-tidyverse
+  - r-rcpp
+  - r-zipfR
+  - r-optimr
+  - r-matrixstats
+  - r-stringr
