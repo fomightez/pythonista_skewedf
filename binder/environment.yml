@@ -3,11 +3,5 @@ channels:
   - conda-forge
   - r
 dependencies:
-  - r-base
-  - r-irkernel
+  - r-base=3.6
   - r-tidyverse
-  - r-rcpp
-  - r-zipfR
-  - r-optimr
-  - r-matrixstats
-  - r-stringr
