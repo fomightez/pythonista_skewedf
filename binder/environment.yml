@@ -16,4 +16,10 @@ dependencies:
     - .
     - scipy
     - numpy
+    - statsmodels
+    - matplotlib
+    - seaborn
+    - openpyxl
     - rich
+    - nbgitpuller
+    - jupytext
