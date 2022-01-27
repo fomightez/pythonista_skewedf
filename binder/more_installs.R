@@ -1,1 +1,1 @@
-install.packages("skewedf", repos='http://cran.us.r-project.org')
+install.packages("SkeweDF", repos='http://cran.us.r-project.org')
