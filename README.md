@@ -2,7 +2,7 @@
 
 development repo for [Skewedf](https://github.com/gragedaa/SkeweDF) with Python
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/pythonista_skewedf/master?labpath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/pythonista_skewedf/master?filepath=index.ipynb)
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/pythonista_skewedf/master?urlpath=rstudio)
 
