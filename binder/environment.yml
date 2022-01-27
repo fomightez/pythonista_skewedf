@@ -17,6 +17,7 @@ dependencies:
     - scipy
     - numpy
     - statsmodels
+    - pandas
     - matplotlib
     - seaborn
     - openpyxl
