@@ -11,3 +11,9 @@ dependencies:
   - r-optimr
   - r-matrixstats
   - r-stringr
+  - pip
+  - pip:
+    - .
+    - scipy
+    - numpy
+    - rich
