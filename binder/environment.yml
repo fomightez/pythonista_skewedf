@@ -14,7 +14,6 @@ dependencies:
   - r-stringr
   - pip
   - pip:
-    - .
     - scipy
     - numpy
     - statsmodels
