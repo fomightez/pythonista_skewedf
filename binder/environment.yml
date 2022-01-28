@@ -23,5 +23,6 @@ dependencies:
     - openpyxl
     - pytest
     - rich
+    - snakemake
     - nbgitpuller
     - jupytext
