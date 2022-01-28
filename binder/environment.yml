@@ -2,7 +2,7 @@ name: pythonista_skewedf_dev
 channels:
   - conda-forge
   - r
-  - anconda
+  - anaconda
 dependencies:
   - r-base=4.1
   - r-irkernel
